@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HelpFragment">
+
+   <LinearLayout
+       android:orientation="vertical"
+       android:layout_width="match_parent"
+       android:layout_height="match_parent">
+
+       <ImageView
+           android:layout_margin="@dimen/all"
+           android:layout_gravity="center"
+           android:src="@mipmap/ic_launcher"
+           android:layout_width="100dp"
+           android:layout_height="100dp"/>
+
+       <TextView
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:text="@string/help"
+           android:gravity="center"
+           android:textStyle="bold"
+           android:textSize="@dimen/title"
+           />
+
+       <TextView
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:layout_marginLeft="@dimen/left"
+           android:text="Inscription ?"
+           android:gravity="center"
+           android:textColor="@color/btnSignUp"
+           android:textSize="@dimen/top"
+           android:layout_margin="@dimen/left"
+           android:textStyle="italic"
+           />
+       <TextView
+           android:layout_margin="@dimen/all"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:text="@string/help_inscription"
+           />
+       <TextView
+           android:layout_marginLeft="@dimen/left"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:text="Connexion ?"
+           android:gravity="center"
+           android:textColor="@color/btnSignUp"
+           android:textSize="@dimen/top"
+           android:layout_margin="@dimen/left"
+           android:textStyle="italic"
+           />
+       <TextView
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:text="@string/help_command"
+           android:layout_margin="@dimen/all"
+           />
+       <TextView
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:text="Passer une commande ?"
+           android:gravity="center"
+           android:textColor="@color/btnSignUp"
+           android:textSize="@dimen/top"
+           android:layout_margin="@dimen/left"
+           android:textStyle="italic"
+           />
+
+       <TextView
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:text="@string/help_command"
+           android:layout_margin="@dimen/all"
+           />
+
+       <TextView
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:text="Verifier Vos commandes ?"
+           android:gravity="center"
+           android:textColor="@color/btnSignUp"
+           android:textSize="@dimen/top"
+           android:layout_margin="@dimen/left"
+           android:textStyle="italic"
+           />
+
+       <TextView
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:text="@string/see_command"
+           android:layout_margin="@dimen/all"
+           />
+
+       <TextView
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:text="Nous Localiser ?"
+           android:gravity="center"
+           android:textColor="@color/btnSignUp"
+           android:textSize="@dimen/top"
+           android:layout_margin="@dimen/left"
+           android:textStyle="italic"
+           />
+
+       <TextView
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:text="@string/help_location"
+           android:layout_margin="@dimen/all"
+           />
+   </LinearLayout>
+
+</ScrollView>

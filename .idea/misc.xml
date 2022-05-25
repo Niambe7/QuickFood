@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/P R E C I S I O N/AndroidStudioProjects/QuickFood/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.119" />
+        <entry key="..\:/Users/P R E C I S I O N/AndroidStudioProjects/QuickFood/app/src/main/res/drawable/anim_slideshow.xml" value="0.165" />
+        <entry key="..\:/Users/P R E C I S I O N/AndroidStudioProjects/QuickFood/app/src/main/res/drawable/ic_back_background.xml" value="0.165" />
+        <entry key="..\:/Users/P R E C I S I O N/AndroidStudioProjects/QuickFood/app/src/main/res/drawable/ic_launcher_background.xml" value="0.119" />
+        <entry key="..\:/Users/P R E C I S I O N/AndroidStudioProjects/QuickFood/app/src/main/res/drawable/ic_location.xml" value="0.165" />
+        <entry key="..\:/Users/P R E C I S I O N/AndroidStudioProjects/QuickFood/app/src/main/res/drawable/ic_menu.xml" value="0.1525" />
+        <entry key="..\:/Users/P R E C I S I O N/AndroidStudioProjects/QuickFood/app/src/main/res/drawable/ic_menu_camera.xml" value="0.1525" />
+        <entry key="..\:/Users/P R E C I S I O N/AndroidStudioProjects/QuickFood/app/src/main/res/drawable/side_nav_bar.xml" value="0.1525" />
+        <entry key="..\:/Users/P R E C I S I O N/AndroidStudioProjects/QuickFood/app/src/main/res/drawable/slide.xml" value="0.165" />
+        <entry key="..\:/Users/P R E C I S I O N/AndroidStudioProjects/QuickFood/app/src/main/res/layout/activity_home.xml" value="0.23981481481481481" />
+        <entry key="..\:/Users/P R E C I S I O N/AndroidStudioProjects/QuickFood/app/src/main/res/layout/activity_inscription.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/P R E C I S I O N/AndroidStudioProjects/QuickFood/app/src/main/res/layout/activity_main.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/P R E C I S I O N/AndroidStudioProjects/QuickFood/app/src/main/res/layout/app_bar_home.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/P R E C I S I O N/AndroidStudioProjects/QuickFood/app/src/main/res/layout/content_home.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/P R E C I S I O N/AndroidStudioProjects/QuickFood/app/src/main/res/layout/fragment_command.xml" value="0.25" />
+        <entry key="..\:/Users/P R E C I S I O N/AndroidStudioProjects/QuickFood/app/src/main/res/layout/fragment_gallery.xml" value="0.25" />
+        <entry key="..\:/Users/P R E C I S I O N/AndroidStudioProjects/QuickFood/app/src/main/res/layout/fragment_help.xml" value="0.264" />
+        <entry key="..\:/Users/P R E C I S I O N/AndroidStudioProjects/QuickFood/app/src/main/res/layout/fragment_home.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/P R E C I S I O N/AndroidStudioProjects/QuickFood/app/src/main/res/layout/fragment_localisation.xml" value="0.25" />
+        <entry key="..\:/Users/P R E C I S I O N/AndroidStudioProjects/QuickFood/app/src/main/res/layout/fragment_menu.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/P R E C I S I O N/AndroidStudioProjects/QuickFood/app/src/main/res/layout/fragment_my_commands.xml" value="0.25" />
+        <entry key="..\:/Users/P R E C I S I O N/AndroidStudioProjects/QuickFood/app/src/main/res/layout/fragment_slideshow.xml" value="0.25" />
+        <entry key="..\:/Users/P R E C I S I O N/AndroidStudioProjects/QuickFood/app/src/main/res/layout/nav_header_home.xml" value="0.23981481481481481" />
+        <entry key="..\:/Users/P R E C I S I O N/AndroidStudioProjects/QuickFood/app/src/main/res/menu/activity_home_drawer.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/P R E C I S I O N/AndroidStudioProjects/QuickFood/app/src/main/res/mipmap-anydpi-v26/ic_back.xml" value="0.165" />
+        <entry key="..\:/Users/P R E C I S I O N/AndroidStudioProjects/QuickFood/app/src/main/res/mipmap-anydpi-v26/ic_back_round.xml" value="0.119" />
+        <entry key="..\:/Users/P R E C I S I O N/AndroidStudioProjects/QuickFood/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.119" />
+        <entry key="..\:/Users/P R E C I S I O N/AndroidStudioProjects/QuickFood/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.119" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

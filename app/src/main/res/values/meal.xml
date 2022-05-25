@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tab_meal">
+        <item>Filet de boeuf</item>
+        <item>Souris d\'agneau</item>
+        <item>Tagliatelle au saumons</item>
+        <item>Thiebou Dieune</item>
+        <item>Tarte fine au pommes</item>
+        <item>Filet de Thiof poêlé</item>
+        <item>Crevettes sautées au curry</item>
+        <item>Ravioli de viandes</item>
+        <item>Thiou curry</item>
+        <item>Mechoui agneau</item>
+        <item> Deukhine</item>
+        <item>Domoda</item>
+        <item>Dibi agneau</item>
+        <item>Pain perdu</item>
+        <item>Tiramisu</item>
+        <item> Mafe</item>
+        <item>Salade de fruits frais</item>
+    </string-array>
+</resources>

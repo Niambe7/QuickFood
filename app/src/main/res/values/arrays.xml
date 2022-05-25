@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tab_menu">
+        <item>Viandes et Volailles</item>
+        <item>Poissons et fruits de mer</item>
+        <item>Pastas</item>
+        <item>Spécialités Sénégalaises</item>
+        <item>Desserts</item>
+    </string-array>
+
+    <string-array name="tab_details">
+        <item>Filet de boeuf, Souris d/agneau, Emincé de Filet de Boeuf Stroganof, Poulet rôti aux épices, Poulet braisé, Dibi agneau </item>
+        <item>Gambas sautées à l/ail, Thiof entier braisé, Filet de Thiof poêlé, Crevettes sautées au curry, Calamars sautés à l/espagnol, Paella l/incontournable, Fried Fish</item>
+        <item>Tagliatelle au saumons, Bolognaise, Ravioli de viandes, Pâtes au poulet, Quessadillas crevettes</item>
+        <item>Thiebou Dieune, Yassa, Mafe, Thiebou Yapp Ngewel, CestBon, Thiou curry, Mechoui agneau, Mbaxall, Domoda, Deukhine</item>
+        <item>Fondant au chocolat, Tarte fine au pommes, Tiramisu, Cheesecake aux fruits, Pain perdu, Coupe de glace parfum aux choix, Mousse au chocolat, Salade de fruits frais</item>
+    </string-array>
+
+</resources>
